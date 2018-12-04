@@ -1,8 +1,8 @@
 # Hackintosh
-Gigabyte Z370n WiFi / i7-8700 / NVMe 970 EVO / Mojave 10.14.1
+Gigabyte Z370N WiFi / i7-8700 / NVMe 970 EVO / Mojave 10.14.1
 
 
-主板: 技嘉Z370n WiFi
+主板: 技嘉Z370N WiFi
 
 CPU: i7 8700
 
