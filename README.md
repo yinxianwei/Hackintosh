@@ -6,7 +6,7 @@
 - 主板: 技嘉Z370N WiFi
 - CPU: i7-8700
 - 硬盘: 三星 NVMe970 EVO 250G
-- 内存: 海盗船复仇者 LPX DDR4 3000 16G
+- 内存: 海盗船复仇者 LPX DDR4 3000 16G x 2
 - 网卡: BCM94360CS2 M.2转换卡
 - 散热器:  猫头鹰 NH-L9i
 - 机箱: MetalSolidd MINI
