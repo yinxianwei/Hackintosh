@@ -9,7 +9,7 @@
 - 内存: 海盗船复仇者 LPX DDR4 3000 16G x 2
 - 网卡: BCM94360CS2 M.2转换卡
 - 散热器:  猫头鹰 NH-L9i
-- 机箱: MetalSolidd MINI
+- 机箱: [MetalSolidd MINI](https://item.taobao.com/item.htm?spm=a230r.1.14.23.185b4ca7przU87&id=525092703456&ns=1&abbucket=19#detail)
 - 电源: DC-ATX 200W
 
 
