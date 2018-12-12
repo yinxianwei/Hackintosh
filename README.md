@@ -32,6 +32,10 @@ $ sudo pmset sleep 10
 $ sudo pmset autopoweroff 0
 ```
 
+## TODO
+
+- DP不能用，目前只能用HDMI连接显示器
+
 
 感谢： 
 
