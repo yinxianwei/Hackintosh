@@ -1,7 +1,8 @@
 # Hackintosh
 
+macOS Mojave 10.14.2 
 
-## 配置清单
+### 配置清单
 
 - 主板: 技嘉Z370N WiFi
 - CPU: i7-8700
@@ -12,30 +13,17 @@
 - 机箱: [MetalSolidd MINI](https://item.taobao.com/item.htm?spm=a230r.1.14.23.185b4ca7przU87&id=525092703456&ns=1&abbucket=19#detail)
 - 电源: DC-ATX 200W
 
+### BIOS设置：
 
-## 自动睡眠
+Peripherals:
 
-```shell
-$ pmset -g
-```
+- Initial Display Output -> IGFX
 
-![](WechatIMG6.png)
+Chipset:
 
-```shell
-$ sudo pmset parametr_name 0
-$ sudo pmset standby 0
-$ sudo pmset womp 0
-$ sudo pmset proximitywake 0
-$ sudo pmset powernap 0
-$ sudo pmset disksleep 10
-$ sudo pmset sleep 10
-$ sudo pmset autopoweroff 0
-```
-
-## TODO
-
-- DP不能用，目前只能用HDMI连接显示器
-
+- VT-d -> disabled
+- DVMT Pre-Allocated -> 128M
+- DVMT Total Gfx Mem -> 128M
 
 感谢： 
 
