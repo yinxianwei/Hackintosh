@@ -51,34 +51,6 @@
 					SU1FSQ==
 					</data>
 				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change EHC1 to EH01</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					RUhDMQ==
-					</data>
-					<key>Replace</key>
-					<data>
-					RUgwMQ==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change EHC2 to EH02</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					RUhDMg==
-					</data>
-					<key>Replace</key>
-					<data>
-					RUgwMg==
-					</data>
-				</dict>
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
@@ -203,12 +175,12 @@
 			<key>ATI</key>
 			<false/>
 			<key>Intel</key>
-			<false/>
+			<true/>
 			<key>NVidia</key>
 			<false/>
 		</dict>
 		<key>ig-platform-id</key>
-		<string>0x3E920003</string>
+		<string>0x3E9B0007</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
@@ -328,7 +300,7 @@
 		<key>SerialNumber</key>
 		<string>C02TM1ZDHX87</string>
 		<key>SmUUID</key>
-		<string>0CCF7DA6-624A-4CDD-B9A8-D7CF5E46CB73</string>
+		<string>2842E191-9DBD-4995-85E6-AF71F35F820B</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>

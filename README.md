@@ -8,10 +8,10 @@ macOS Mojave 10.14.2
 - CPU: i7-8700
 - 硬盘: 三星 NVMe970 EVO 250G
 - 内存: 海盗船复仇者 LPX DDR4 3000 16G x 2
-- 网卡: BCM94360CS2 M.2转换卡
-- 散热器:  猫头鹰 NH-L9i
-- 机箱: [MetalSolidd MINI](https://item.taobao.com/item.htm?spm=a230r.1.14.23.185b4ca7przU87&id=525092703456&ns=1&abbucket=19#detail)
-- 电源: DC-ATX 200W
+- 网卡: BCM94360CS2 + M.2转换卡
+- 散热器: 猫头鹰 NH-L9i
+- 机箱: 乔思伯UMX1 PLUS
+- 电源: 海盗船SF600
 
 ### BIOS设置：
 
@@ -25,7 +25,13 @@ Chipset:
 - DVMT Pre-Allocated -> 128M
 - DVMT Total Gfx Mem -> 128M
 
-感谢： 
+### 定制USB
+
+使用[Hackintool 2.0.8](https://www.tonymacx86.com/threads/release-hackintool-v2-0-4.254559/) 
+
+教程参考：https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html
+
+### 感谢： 
 
 [http://bbs.pcbeta.com/viewthread-1797335-1-1.html](http://bbs.pcbeta.com/viewthread-1797335-1-1.html)   
 [https://github.com/b166ar/Mac-Mini-Killer](https://github.com/b166ar/Mac-Mini-Killer)   
