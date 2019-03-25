@@ -2,7 +2,7 @@
 
 macOS Mojave 10.14.2 
 
-### 配置清单
+### 配置清单:
 
 - 主板: 技嘉Z370N WiFi
 - CPU: i7-8700
@@ -12,28 +12,27 @@ macOS Mojave 10.14.2
 - 散热器: 猫头鹰 NH-L9i
 - 机箱: 乔思伯UMX1 PLUS
 - 电源: 海盗船SF600
+- 显卡: RX560
 
-### BIOS设置：
+### BIOS设置:
 
 Peripherals:
 
-- Initial Display Output -> IGFX
+- Initial Display Output -> PCIe 1 Slot
 
 Chipset:
 
 - VT-d -> disabled
 - DVMT Pre-Allocated -> 128M
 - DVMT Total Gfx Mem -> 128M
+- Wake on LAN Enable -> Disabled
 
-### 定制USB
-
-使用[Hackintool 2.0.8](https://www.tonymacx86.com/threads/release-hackintool-v2-0-4.254559/) 
+### 定制USB:
 
 教程参考：https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html
 
-### 感谢： 
+### 感谢:
 
 [http://bbs.pcbeta.com/viewthread-1797335-1-1.html](http://bbs.pcbeta.com/viewthread-1797335-1-1.html)   
 [https://github.com/b166ar/Mac-Mini-Killer](https://github.com/b166ar/Mac-Mini-Killer)   
 [https://www.reddit.com/r/hackintosh/comments/8eew1y/hz370n_wifi_card_replacement](https://www.reddit.com/r/hackintosh/comments/8eew1y/hz370n_wifi_card_replacement/)   
-
