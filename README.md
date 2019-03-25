@@ -31,6 +31,8 @@ Chipset:
 
 教程参考：https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html
 
+![](usb.png)
+
 ### 感谢:
 
 [http://bbs.pcbeta.com/viewthread-1797335-1-1.html](http://bbs.pcbeta.com/viewthread-1797335-1-1.html)   
