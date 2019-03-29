@@ -1,6 +1,6 @@
 # Hackintosh
 
-macOS Mojave 10.14.2 
+macOS Mojave 10.14.4 
 
 ### 配置清单:
 
