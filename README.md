@@ -1,6 +1,6 @@
 # Hackintosh
 
-macOS Mojave 10.14.5
+macOS Mojave 10.14.6
 
 ### 配置清单:
 
@@ -10,7 +10,6 @@ macOS Mojave 10.14.5
 - 内存: 海盗船复仇者 LPX DDR4 3000 16G x 2
 - 网卡: BCM94360CS2 + M.2转换卡
 - 散热器: 猫头鹰 NH-L9i
-- 机箱: 乔思伯UMX1 PLUS
 - 电源: 海盗船SF600
 - 显卡: RX560
 
