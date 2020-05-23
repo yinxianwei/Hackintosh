@@ -7,7 +7,7 @@
 - CPU: i7-8700
 - 硬盘: 三星 NVMe970 EVO 250G
 - 内存: 海盗船复仇者 LPX DDR4 3000 16G x 2
-- 网卡: BCM94360CS2 + M.2转换卡
+- 网卡: BCM94360CD + M.2转换卡
 - 散热器: 猫头鹰 NH-L9i
 - 电源: 海盗船SF600
 - 显卡: RX560
@@ -33,6 +33,4 @@ Chipset:
 
 ### 感谢:
 
-[http://bbs.pcbeta.com/viewthread-1797335-1-1.html](http://bbs.pcbeta.com/viewthread-1797335-1-1.html)   
-[https://github.com/b166ar/Mac-Mini-Killer](https://github.com/b166ar/Mac-Mini-Killer)   
-[https://www.reddit.com/r/hackintosh/comments/8eew1y/hz370n_wifi_card_replacement](https://www.reddit.com/r/hackintosh/comments/8eew1y/hz370n_wifi_card_replacement/)   
+[https://blog.xjn819.com/?p=543](https://blog.xjn819.com/?p=543)
