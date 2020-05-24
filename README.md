@@ -12,18 +12,20 @@
 - 电源: 海盗船SF600
 - 显卡: RX560
 
+
 ### BIOS设置:
 
-Peripherals:
 
 - Initial Display Output -> PCIe 1 Slot
-
-Chipset:
-
-- VT-d -> disabled
 - DVMT Pre-Allocated -> 128M
 - DVMT Total Gfx Mem -> 128M
+
+- Above 4G decoding	-> Enable
+- EHCI/XHCI Hand-off -> Enable
+
+- VT-d -> disabled
 - Wake on LAN Enable -> Disabled
+- CSM -> Disabled
 
 ### 定制USB:
 
