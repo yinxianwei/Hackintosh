@@ -158,15 +158,27 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
-			<dict>
-				<key>layout-id</key>
-				<data>BwAAAA==</data>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwCYPg==</data>
+				<data>BwCbPg==</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,2,0</string>
+				<key>device_type</key>
+				<string>Display controller</string>
+				<key>model</key>
+				<string>Intel UHD Graphics 630 (Desktop)</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,31,3</string>
+				<key>device_type</key>
+				<string>Audio device</string>
+				<key>layout-id</key>
+				<data>BwAAAA==</data>
+				<key>model</key>
+				<string>200 Series PCH HD Audio</string>
 			</dict>
 		</dict>
 		<key>Block</key>
@@ -515,7 +527,7 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>Apple</string>
+			<string>Builtin</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -536,7 +548,7 @@
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
 			<key>Target</key>
-			<integer>3</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Entries</key>
 		<array>
@@ -636,7 +648,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>darkwake=0 slide=1</string>
+				<string>darkwake=0</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -698,22 +710,53 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
+		<key>DataHub</key>
+		<dict>
+			<key>ARTFrequency</key>
+			<integer>0</integer>
+			<key>BoardProduct</key>
+			<string>Mac-63001698E7A34814</string>
+			<key>BoardRevision</key>
+			<data></data>
+			<key>DevicePathsSupported</key>
+			<integer>0</integer>
+			<key>FSBFrequency</key>
+			<integer>0</integer>
+			<key>InitialTSC</key>
+			<integer>0</integer>
+			<key>PlatformName</key>
+			<string></string>
+			<key>SmcBranch</key>
+			<data></data>
+			<key>SmcPlatform</key>
+			<data></data>
+			<key>SmcRevision</key>
+			<data></data>
+			<key>StartupPowerEvents</key>
+			<integer>0</integer>
+			<key>SystemProductName</key>
+			<string>iMac19,2</string>
+			<key>SystemSerialNumber</key>
+			<string>C02DP00KJWDW</string>
+			<key>SystemUUID</key>
+			<string>1186DF88-B901-4AC5-B948-E43BA69130B0</string>
+		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02935401GULNV9FB</string>
+			<string>C02046802QXKGQGUE</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z9WYMJV3Q</string>
+			<string>C02DP00KJWDW</string>
 			<key>SystemUUID</key>
-			<string>05C0DC74-3CF6-4823-9DAF-DC45CD2DD010</string>
+			<string>1186DF88-B901-4AC5-B948-E43BA69130B0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -733,7 +776,7 @@
 			<key>HideVerbose</key>
 			<true/>
 			<key>JumpstartHotPlug</key>
-			<false/>
+			<true/>
 			<key>MinDate</key>
 			<integer>0</integer>
 			<key>MinVersion</key>
@@ -852,9 +895,9 @@
 			<key>ReleaseUsbOwnership</key>
 			<false/>
 			<key>RequestBootVarFallback</key>
-			<true/>
+			<false/>
 			<key>RequestBootVarRouting</key>
-			<true/>
+			<false/>
 			<key>UnblockFsConnect</key>
 			<false/>
 		</dict>
