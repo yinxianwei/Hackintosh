@@ -161,7 +161,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>BwCbPg==</data>
+				<data>AwCYPg==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device_type</key>
@@ -715,7 +715,7 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string>Mac-63001698E7A34814</string>
+			<string>Mac-AA95B1DDAB278B95</string>
 			<key>BoardRevision</key>
 			<data></data>
 			<key>DevicePathsSupported</key>
@@ -735,28 +735,28 @@
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>iMac19,2</string>
+			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DP00KJWDW</string>
+			<string>C02YXEZXJV3Q</string>
 			<key>SystemUUID</key>
-			<string>1186DF88-B901-4AC5-B948-E43BA69130B0</string>
+			<string>AF7D4E93-E114-4B9E-BF58-A8DBF0268D3F</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02046802QXKGQGUE</string>
+			<string>C029263064NLNV91M</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac19,2</string>
+			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DP00KJWDW</string>
+			<string>C02YXEZXJV3Q</string>
 			<key>SystemUUID</key>
-			<string>1186DF88-B901-4AC5-B948-E43BA69130B0</string>
+			<string>AF7D4E93-E114-4B9E-BF58-A8DBF0268D3F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
