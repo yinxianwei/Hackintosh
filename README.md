@@ -33,6 +33,10 @@
 
 ![](usb.png)
 
+### 睡眠自动唤醒问题:
+
+使用脚本 https://github.com/xinstein/PleaseSleep ，睡眠时自动关闭WiFi，这样就不会自动唤醒
+
 ### 感谢:
 
 [https://blog.xjn819.com/?p=543](https://blog.xjn819.com/?p=543)
