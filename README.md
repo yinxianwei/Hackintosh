@@ -12,9 +12,12 @@
 - 电源: 海盗船SF600
 - 显卡: RX560
 
+### 升级主板BIOS为Z370NWF.14b，升级后需要解锁CFG lock
+
+教程参考：https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#checking-if-your-firmware-supports-cfg-lock-unlocking
+
 
 ### BIOS设置:
-
 
 - Initial Display Output -> PCIe 1 Slot
 - DVMT Pre-Allocated -> 128M
@@ -33,9 +36,6 @@
 
 ![](usb.png)
 
-### 睡眠自动唤醒问题:
-
-使用脚本 https://github.com/xinstein/PleaseSleep ，睡眠时自动关闭WiFi，这样就不会自动唤醒
 
 ### 感谢:
 
