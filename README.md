@@ -1,6 +1,10 @@
 # Hackintosh
 
 
+### 核显分支:
+
+[https://github.com/yinxianwei/Hackintosh/tree/IGFX](https://github.com/yinxianwei/Hackintosh/tree/IGFX)
+
 ### 配置清单:
 
 - 主板: 技嘉Z370N WiFi
