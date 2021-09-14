@@ -38,6 +38,10 @@
 
 教程参考：https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html
 
+### 睡眠自动唤醒问题:
+
+使用脚本 https://github.com/xinstein/PleaseSleep ，睡眠时自动关闭WiFi，这样就不会自动唤醒
+
 ![](usb.png)
 
 
