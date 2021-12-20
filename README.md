@@ -36,7 +36,7 @@
 
 ### 定制USB:
 
-教程参考：https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html
+教程参考：https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html
 
 ### 睡眠自动唤醒问题:
 
