@@ -1,3 +1,5 @@
+
+
 # Hackintosh
 
 
@@ -42,7 +44,7 @@
 
 使用脚本 https://github.com/xinstein/PleaseSleep ，睡眠时自动关闭WiFi，这样就不会自动唤醒
 
-![](usb.png)
+![定制USB](usb.png)
 
 
 ### 感谢:
